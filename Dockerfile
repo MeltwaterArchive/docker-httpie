@@ -12,4 +12,3 @@ USER httpie
 WORKDIR /home/httpie
 
 ENTRYPOINT ["http"]
-
